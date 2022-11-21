@@ -1,0 +1,50 @@
+body{
+    padding: 10px 0px 10px 0px;
+    background-color: black;
+}
+
+.first{
+    height: 200px;
+    background-color: red;
+    margin:0px 10px 0px 10px;
+}
+.first h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.second{
+    height: 200px;
+    background-color: green;
+    margin: 0px 10px 0px 10px;
+}
+.second h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.third{
+    height:200px;
+    background-color: yellow;
+    margin: 0px 10px 0px 10px;
+}
+.third h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.forth{
+    height: 200px;
+    background-color: aqua;
+    margin: 0px 10px 0px 10px;
+}
+.forth h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.five{
+    height: 200px;
+    background-color: bisque;
+    margin: 0px 10px 0px 10px;
+} 
+.five h1{
+    text-align: center;
+    padding-top: 50px;
+}
